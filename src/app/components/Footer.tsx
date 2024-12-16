@@ -8,7 +8,7 @@ const Footer = () => {
       <div className="container  max-w-screen-md mx-auto grid grid-cols-1 md:grid-cols-4 gap-4">
         <div>
             <Image
-              src="/Logo icon.png"
+              src="/Logo20.png"
               alt="Whitepace Logo"
               width={30}
               height={40}

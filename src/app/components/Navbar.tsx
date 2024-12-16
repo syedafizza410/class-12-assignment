@@ -9,9 +9,8 @@ const Navbar = () => {
   return (
     <nav className="bg-[#003366] w-full py-4 px-6 overflow-hidden">
       <div className="w-full max-w-screen-lg mx-auto flex items-center justify-between">
-        {/* Logo */}
         <div className="flex items-center gap-4">
-          <Image src="/Logo icon.png" alt="Logo" width={30} height={50} />
+          <Image src="/Logo20.png" alt="Logo" width={30} height={50} />
           <Link href="/">
             <span className="text-white text-3xl font-bold cursor-pointer">
               Whitepace
